@@ -1,8 +1,8 @@
 substitutions:
   _REGION: us-east1
-  _PROJECT: poccv-taskmanagertienda-qas
+  _PROJECT: cv-taskmanagertienda-qas
   _SERVICE: taskmanager-front-qas
-  _REPO: taskmanager-front-repo
+  _REPO: taskmanager-frontend-trigger-qas
   _SQL_INSTANCE: taskmanager-sql-db
   _VPC_CONNECTOR: serverless-connector-qas
   _SA_EMAIL: sa-cloudrun-taskmanager@poccv-taskmanagertienda-qas.iam.gserviceaccount.com
